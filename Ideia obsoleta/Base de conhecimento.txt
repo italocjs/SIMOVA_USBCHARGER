@@ -1,0 +1,4 @@
+Os carregadores usando LM2596 sofrem demais de falsificação, usando componentes inferiores.  
+Nos testes nenhum carregador suportou mais de 15min em 2A, esquentando demais e entrando em curto circuito.   
+
+Com o circuito fabricado por nós, podemos escolher o fabricante do componente, evitando esse problema
